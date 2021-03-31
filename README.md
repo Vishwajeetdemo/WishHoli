@@ -1,1 +1,1 @@
-# WishHoli
+# HoliWish
